@@ -1,0 +1,1 @@
+将照片放在此文件夹，并在 index.html 顶部 love-config 的 photos 数组中填写相对路径，例如 photos/together.jpg。
